@@ -1,5 +1,6 @@
 # HelloWorld
-# Semana tec
+# Semana tec FOTO
+* [ALUMNOS](
 
 
 # que me gusta hacer?
