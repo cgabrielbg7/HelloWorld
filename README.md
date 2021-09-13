@@ -1,6 +1,6 @@
 # HelloWorld
 # Semana tec FOTO
-* [ALUMNOS](
+* ![ALUMNOS](FOTO.jpg)
 
 
 # que me gusta hacer?
