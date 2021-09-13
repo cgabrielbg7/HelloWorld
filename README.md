@@ -1,11 +1,12 @@
 # HelloWorld
+# Semana tec
 
 
-#que me gusta hacer?
+# que me gusta hacer?
 -Jugar videojuegos
 -Tocar el piano
 -Aprender programacion
 
 
-#que carrera estoy?
+# que carrera estoy?
 -ITC
