@@ -11,3 +11,7 @@
 
 # que carrera estoy?
 -ITC
+
+# Reynaldo Hernandez
+- Aqui estoy colaborando
+- Aportacion #2
